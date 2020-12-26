@@ -1,0 +1,30 @@
+.card-search-container{
+    position: relative;
+    display: flex;
+    width: 100%;
+    border: black 2px inset;
+    margin: 1%;
+}
+
+.card-search-container h2{
+    position: absolute;
+    left: 92%;
+    bottom: 0%;
+}
+
+.left-side{
+    float: left;
+    width:40%
+}
+
+.left-side img{
+    width: 100%;
+}
+
+.right-side{
+    width: 60%;
+}
+
+.row{
+    display: flex;
+}
